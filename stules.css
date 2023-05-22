@@ -1,0 +1,13 @@
+#post-container {
+    display: none;
+    margin-top: 20px;
+}
+#comments-btn {
+    display: none;
+    margin-top: 10px;
+}
+#error-msg {
+    display: none;
+    color: red;
+    margin-top: 20px;
+}
